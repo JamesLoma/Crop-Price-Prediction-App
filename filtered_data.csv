@@ -1,0 +1,11 @@
+date,regional,district,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice,year,month
+2006-01-15,Arusha,Arusha Urban,Arusha (urban),-3.366667,36.683333,cereals and tubers,Maize,100 KG,actual,Wholesale,TZS,38464.29,32.7411,2006,1
+2006-01-15,Arusha,Arusha Urban,Arusha (urban),-3.366667,36.683333,cereals and tubers,Rice,100 KG,actual,Wholesale,TZS,63227.27,53.8196,2006,1
+2006-01-15,Arusha,Arusha Urban,Arusha (urban),-3.366667,36.683333,pulses and nuts,Beans,100 KG,actual,Wholesale,TZS,80714.29,68.7047,2006,1
+2006-01-15,Dar-es-salaam,Ilala,Dar Es Salaam,-6.8,39.283333,cereals and tubers,Maize,100 KG,actual,Wholesale,TZS,38742.86,32.9783,2006,1
+2006-01-15,Dar-es-salaam,Ilala,Dar Es Salaam,-6.8,39.283333,cereals and tubers,Rice,100 KG,actual,Wholesale,TZS,64545.45,54.9416,2006,1
+2006-01-15,Dar-es-salaam,Ilala,Dar Es Salaam,-6.8,39.283333,pulses and nuts,Beans,100 KG,actual,Wholesale,TZS,80000.0,68.0967,2006,1
+2006-01-15,Dodoma,Mpwapwa,Dodoma (Majengo),-7.29067,36.340375,cereals and tubers,Maize,100 KG,actual,Wholesale,TZS,36107.14,30.7347,2006,1
+2006-01-15,Dodoma,Mpwapwa,Dodoma (Majengo),-7.29067,36.340375,cereals and tubers,Rice,100 KG,actual,Wholesale,TZS,60500.0,51.4981,2006,1
+2006-01-15,Dodoma,Mpwapwa,Dodoma (Majengo),-7.29067,36.340375,pulses and nuts,Beans,100 KG,actual,Wholesale,TZS,76428.57,65.0566,2006,1
+2006-01-15,Iringa,Iringa Urban,Iringa Urban,-7.766667,35.7,cereals and tubers,Maize,100 KG,actual,Wholesale,TZS,24444.44,20.8073,2006,1
