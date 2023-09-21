@@ -1,6 +1,6 @@
 # Crop Price Prediction App
 
-This is a web-based application for predicting crop prices using Python and the Streamlit library.
+This is a web-based application for predicting crop prices using Python and the Streamlit library, created during the 2023 Machine Learning Bootcamp at dLab Tanzania, allows users to predict crop prices using machine learning techniques. It provides an intuitive interface to input various parameters, such as crop type, region, and historical data, and generates price predictions based on the provided inputs. Explore historical price trends, customize input values, and gain insights into crop pricing trends with this user-friendly app.
 
 ## Getting Started
 
